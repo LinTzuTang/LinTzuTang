@@ -7,9 +7,8 @@
     <img src="https://img.shields.io/badge/Google%20Scholar-Tzu--Tang%20Lin-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/>
   </a>
 </p>
-<!--GS_START-->
+<!--GS_START-->  
 
-📚 **Google Scholar Statistics**
 - 📄 Total Publications: 7
 - 📈 Total Citations: 192
 - 🧠 h-index: 6
