@@ -4,12 +4,16 @@ import datetime
 SCHOLAR_ID = "2Yxesf0AAAAJ"
 
 author = scholarly.search_author_id(SCHOLAR_ID)
-author = scholarly.fill(author, sections=["indices"])
+author = scholarly.fill(author, sections=["indices"])  # 只填 h-index 和 citation
+
+# 嘗試取得 publications 總數
+paper_count = len(author.get("publications", []))
+if paper_count == 0:
+    paper_count = "N/A"
 
 name = author["name"]
 h_index = author["hindex"]
 citations = author["citedby"]
-paper_count = len(author.get("publications", []))
 date = datetime.datetime.now().strftime("%Y-%m-%d")
 
 block = f"""<!--GS_START-->
