@@ -17,15 +17,17 @@ with open("README.md", "r") as f:
 
 # Preserve existing publication count
 pub_match = re.search(r"📄 Total Publications: (\d+)", content)
-pub_text = f"- 📄 Total Publications: {pub_match.group(1)}" if pub_match else ""
+pub_text = f"- 📄 Total Publications: {pub_match.group(1)}  " if pub_match else ""
 
-block = f"""<!--GS_START-->
-{pub_text}
-- 📈 Total Citations: {citations}
-- 🧠 h-index: {h_index}
-- 🏅 i10-index: {i10_index}  
-_Last updated: {date}_
-<!--GS_END-->"""
+block = (
+    "<!--GS_START-->\n"
+    f"{pub_text}\n"
+    f"- 📈 Total Citations: {citations}  \n"
+    f"- 🧠 h-index: {h_index}  \n"
+    f"- 🏅 i10-index: {i10_index}  \n"
+    f"_Last updated: {date}_\n"
+    "<!--GS_END-->"
+)
 
 start = content.find("<!--GS_START-->")
 end = content.find("<!--GS_END-->") + len("<!--GS_END-->")
