@@ -7,7 +7,8 @@
   </a>
 </p>
 
-<!--GS_START-->- 📄 Total Publications: 7  
+<!--GS_START-->
+- 📄 Total Publications: 7  
 - 📈 Total Citations: 192  
 - 🧠 h-index: 6  
 - 🏅 i10-index: 6  
