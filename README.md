@@ -7,10 +7,9 @@
   </a>
 </p>
 
-<!--GS_START-->
-- 📄 Total Publications: 7  
-- 📈 Total Citations: ...  
-- 🧠 h-index: ...  
-- 🏅 i10-index: ...  
-_Last updated: ..._
+<!--GS_START-->- 📄 Total Publications: 7  
+- 📈 Total Citations: 192  
+- 🧠 h-index: 6  
+- 🏅 i10-index: 6  
+_Last updated: 2025-07-28_
 <!--GS_END-->
