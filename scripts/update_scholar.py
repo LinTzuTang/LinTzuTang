@@ -20,7 +20,7 @@ pub_match = re.search(r"📄 Total Publications: (\d+)", content)
 pub_text = f"- 📄 Total Publications: {pub_match.group(1)}  " if pub_match else ""
 
 block = (
-    "<!--GS_START-->\n"
+    "<!--GS_START-->"
     f"{pub_text}\n"
     f"- 📈 Total Citations: {citations}  \n"
     f"- 🧠 h-index: {h_index}  \n"
