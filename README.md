@@ -1,11 +1,16 @@
 # Tzu-Tang Lin
-
 <!--GS_START-->
 📚 **Google Scholar Statistics**
-- 👨‍🔬 Name: Tzu-Tang Lin
-- 🧠 h-index: 6
-- 📄 Total Publications: 0
-- 📈 Total Citations: 192
+<p align="left">
+  <a href="https://scholar.google.com/citations?user=2Yxesf0AAAAJ">
+    <img src="https://img.shields.io/badge/Google%20Scholar-Tzu--Tang%20Lin-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/>
+  </a>
+</p>
+- 📄 Total Publications: 7
+- 📈 Total Citations: ...
+- 🧠 h-index: ...
+- 🏅 i10-index: ...
+_Last updated: ..._
 - 🔗 [View on Google Scholar](https://scholar.google.com/citations?user=2Yxesf0AAAAJ)
 _Last updated: 2025-07-28_
 <!--GS_END-->
