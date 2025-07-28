@@ -21,6 +21,7 @@ pub_text = f"- 📄 Total Publications: {pub_match.group(1)}  " if pub_match els
 
 block = (
     "<!--GS_START-->"
+    f"\n"
     f"{pub_text}\n"
     f"- 📈 Total Citations: {citations}  \n"
     f"- 🧠 h-index: {h_index}  \n"
