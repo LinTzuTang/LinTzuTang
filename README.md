@@ -12,6 +12,6 @@
 - 📄 Total Publications: 7
 - 📈 Total Citations: 192
 - 🧠 h-index: 6
-- 🏅 i10-index: 6
+- 🏅 i10-index: 6<br>
 _Last updated: 2025-07-28_
 <!--GS_END-->
