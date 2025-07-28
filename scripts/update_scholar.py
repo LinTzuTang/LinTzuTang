@@ -21,10 +21,10 @@ pub_text = f"- 📄 Total Publications: {pub_match.group(1)}" if pub_match else 
 
 block = f"""<!--GS_START-->
 📚 **Google Scholar Statistics**
+{pub_text}
 - 📈 Total Citations: {citations}
 - 🧠 h-index: {h_index}
 - 🏅 i10-index: {i10_index}
-{pub_text}
 _Last updated: {date}_
 <!--GS_END-->"""
 
