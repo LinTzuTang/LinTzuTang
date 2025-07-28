@@ -14,3 +14,5 @@
 - 🏅 i10-index: 6  
 _Last updated: 2025-07-28_
 <!--GS_END-->
+
+![](https://raw.githubusercontent.com/lintzutang/lintzutang/main/dist/github-contribution-grid-snake.svg)
