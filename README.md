@@ -4,11 +4,14 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=23&pause=2000&color=0D47A1&width=1000&lines=🔍+Transforming+data+into+discovery;🧬+ML-powered+biological+modeling+and+design;🛠️+Engineering+biomedical+tools+with+intelligence;💊+AI-driven+drug+development+and+screening;🚀+Driving+innovation+in+biomedicine)
 
+<img align="right" src="figures/assets_task_01k10sw2nkfxst4x32kr4pebse_1753447664_img_1.jpeg" width="400"/>
+
 ### 👤 About Me  
 **AI × Bioinformatics Researcher & Developer**  
 📍 Based in **Taiwan / US**  
-⏳ With <code>**7+**</code> years of cross-disciplinary R&D experience
-```.sh
+⏳ With `7+` years of cross-disciplinary R&D experience  
+
+```sh
 export INTERESTS="Bioinformatics, Data Science, AI Drug Discovery, Machine Learning, Genetic Analysis, Precision Medicine"
 ```
 <p> <kbd>Bioinformatics</kbd> &nbsp; <kbd>Data Science</kbd> &nbsp; <kbd>AI Drug Discovery</kbd> &nbsp; <kbd>Machine Learning</kbd> &nbsp; <kbd>Genetic Analysis</kbd> &nbsp; <kbd>Precision Medicine</kbd> </p>
@@ -18,14 +21,6 @@ export INTERESTS="Bioinformatics, Data Science, AI Drug Discovery, Machine Learn
 - Research Assistant, *Virginia Tech – Bioinformatics Lab, Dept. of Computer Science*  
 - Data Scientist, *Cathay Financial Holdings – DDT Data Science R&D Lab*  
 - Bioinformatics Engineer, *Academia Sinica – Institute of Information Science*
-
-
-
-
-
-
-
-
 > Motivated to tap into the potential of AI and data science to reveal game-changing capabilities that accelerate the advancement of precision medicine and maximally benefit public health.
 
 
