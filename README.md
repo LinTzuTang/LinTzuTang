@@ -15,4 +15,5 @@
 _Last updated: 2025-07-28_
 <!--GS_END-->
 
-![](https://raw.githubusercontent.com/lintzutang/lintzutang/main/dist/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/lintzutang/lintzutang/output/github-contribution-grid-snake.svg)
+
