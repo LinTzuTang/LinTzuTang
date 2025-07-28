@@ -8,10 +8,9 @@
   </a>
 </p>
 <!--GS_START-->
-
 - 📄 Total Publications: 7
 - 📈 Total Citations: ...
 - 🧠 h-index: ...
 - 🏅 i10-index: ...
-- Last updated: ..._
+_Last updated: ..._
 <!--GS_END-->
