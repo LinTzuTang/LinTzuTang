@@ -4,7 +4,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=23&pause=2000&color=0D47A1&width=1000&lines=🔍+Transforming+data+into+discovery;🧬+ML-powered+biological+modeling+and+design;🛠️+Engineering+biomedical+tools+with+intelligence;💊+AI-driven+drug+development+and+screening;🚀+Driving+innovation+in+biomedicine)
 
-<img align="right" src="figures/assets_task_01k10sw2nkfxst4x32kr4pebse_1753447664_img_1.jpeg" width="400"/>
+
 
 ### 👤 About Me  
 **AI × Bioinformatics Researcher & Developer**  
@@ -33,6 +33,7 @@ export INTERESTS="Bioinformatics, Data Science, AI Drug Discovery, Machine Learn
   </a>
 </p>
 
+
 <!--GS_START-->
 - 📄 Total Publications: 7  
 - 📈 Total Citations: **192**  
@@ -42,3 +43,4 @@ _Last updated: 2025-07-28_
 <!--GS_END-->
 
 ![](https://raw.githubusercontent.com/lintzutang/lintzutang/output/github-contribution-grid-snake-ocean.svg)
+
