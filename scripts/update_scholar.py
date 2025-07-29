@@ -23,7 +23,7 @@ block = (
     "<!--GS_START-->"
     f"\n"
     # f"{pub_text}\n"
-    f"- 📈 Total Citations: \*\*{citations}\*\*  \n"
+    f"- 📈 Total Citations: **{citations}**  \n"
     f"- 🧠 h-index: {h_index}  \n"
     f"- 🏅 i10-index: {i10_index}  \n"
     f"_Last updated: {date}_\n"
