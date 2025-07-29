@@ -20,8 +20,7 @@ with open("README.md", "r") as f:
 # pub_text = f"- 📄 Total Publications: {pub_match.group(1)}  " if pub_match else ""
 
 block = (
-    "<!--GS_START-->"
-    f"\n"
+    "<!--GS_START-->\n"
     # f"{pub_text}\n"
     f"- 📈 Total Citations: **{citations}**  \n"
     f"- 🧠 h-index: {h_index}  \n"
