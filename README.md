@@ -19,7 +19,7 @@ export INTERESTS="Bioinformatics, Data Science, AI Drug Discovery, Machine Learn
 
 > Motivated to tap into the potential of AI and data science to reveal game-changing capabilities that accelerate the advancement of precision medicine and maximally benefit public health.
 
-
+<br>
 
 ### 💻 Tech Stack & Tools
 #### Programming, Data & AI
@@ -28,19 +28,16 @@ export INTERESTS="Bioinformatics, Data Science, AI Drug Discovery, Machine Learn
 #### Development & Environment
 <p> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white" /> </p>
 
-
+<br>
 
 ### 📊 Github Statistics
+
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LinTzuTang&theme=transparent" width="75%">
+
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=LinTzuTang&show_icons=true&hide_rank=true&custom_title=Tzu-Tang+Lin's+GitHub+Stats&include_all_commits=true&include_all_contrib=true&theme=transparent" width="ˇ38%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinTzuTang&layout=compact&count_weight=0.5&hide=jupyter%20notebook&theme=transparent" width="30%">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LinTzuTang&show_icons=true&hide_rank=true&custom_title=Tzu-Tang+Lin's+GitHub+Stats&include_all_commits=true&include_all_contrib=true&include_all_contribs=true&theme=transparent&hide_border=true" width="38%">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinTzuTang&layout=compact&count_weight=0.5&hide=jupyter%20notebook&theme=transparent&hide_border=true" width="35%">
 </div>
-
----
-
-![](https://raw.githubusercontent.com/lintzutang/lintzutang/output/github-contribution-grid-snake-ocean.svg)
-
-
 
 ### 🧬 Work Experience
 
@@ -82,5 +79,28 @@ export INTERESTS="Bioinformatics, Data Science, AI Drug Discovery, Machine Learn
 _Last updated: 2025-07-29_
 <!--GS_END-->
 
-#
+
+### 🔬 Research Projects
+
+| Title | Code | Summary |
+|-------|------|---------|
+| RNA-ligand Binding Affinity Prediction | [🔗 GitHub](https://github.com/LinTzuTang/RNA-affinity) | Predicting binding strength using GNN and structural information |
+| Hariboss Dataset Preprocessing & Split | [🔗 GitHub](https://github.com/LinTzuTang/hariboss-split) | Tools to clean, split and preprocess RNA-ligand data |
+| CLIP-Drug (Contrastive Learning) | [🔗 GitHub](https://github.com/LinTzuTang/clip-drug) | Multimodal learning for RNA-SM representation alignment |
+| DeepCoy + DUDE Decoy Generator | [🔗 GitHub](https://github.com/LinTzuTang/deepcoy-pipeline) | Decoy molecule generation pipeline |
+| RNA3DB Sequence-Based Split Tool | [🔗 GitHub](https://github.com/LinTzuTang/RNA3DB-split) | Sequence-aware data splitting utility |
+
+---
+
+### 🛠️ Side Projects
+
+| Title | Code |
+|-------|------|
+| Academic Personal Website (Hugo + Wowchemy) | [🔗 GitHub](https://github.com/LinTzuTang/academic-website) |
+| RNA Structure Visualization Toolkit | [🔗 GitHub](https://github.com/LinTzuTang/rna-visualizer) |
+| Bioinfo Notebook Templates | [🔗 GitHub](https://github.com/LinTzuTang/bioinfo-notebooks) |
+
+---
+
+
 
