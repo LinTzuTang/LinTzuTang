@@ -15,15 +15,15 @@ date = datetime.datetime.now().strftime("%Y-%m-%d")
 with open("README.md", "r") as f:
     content = f.read()
 
-# Preserve existing publication count
-pub_match = re.search(r"📄 Total Publications:\s+\*\*(\d+)\*\*", content)
-pub_text = f"- 📄 Total Publications: {pub_match.group(1)}  " if pub_match else ""
+# # Preserve existing publication count
+# pub_match = re.search(r"📄 Total Publications: (\d+)", content)
+# pub_text = f"- 📄 Total Publications: {pub_match.group(1)}  " if pub_match else ""
 
 block = (
     "<!--GS_START-->"
     f"\n"
-    f"{pub_text}\n"
-    f"- 📈 Total Citations: **{citations}**  \n"
+    # f"{pub_text}\n"
+    f"- 📈 Total Citations: \*\*{citations}\*\*  \n"
     f"- 🧠 h-index: {h_index}  \n"
     f"- 🏅 i10-index: {i10_index}  \n"
     f"_Last updated: {date}_\n"
