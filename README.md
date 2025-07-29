@@ -33,13 +33,11 @@ export INTERESTS="Bioinformatics, Data Science, AI Drug Discovery, Machine Learn
   </a>
 </p>
 
-
-<!--GS_START-->
-- 📄 Total Publications: 7  
+- 📄 Total Publications: 7  <!--GS_START-->  
 - 📈 Total Citations: **192**  
 - 🧠 h-index: 6  
 - 🏅 i10-index: 6  
-_Last updated: 2025-07-28_
+_Last updated: 2025-07-28_  
 <!--GS_END-->
 
 ![](https://raw.githubusercontent.com/lintzutang/lintzutang/output/github-contribution-grid-snake-ocean.svg)
