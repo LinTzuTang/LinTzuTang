@@ -39,32 +39,6 @@ export INTERESTS="Bioinformatics, Data Science, AI Drug Discovery, Machine Learn
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinTzuTang&layout=compact&count_weight=0.5&hide=jupyter%20notebook&theme=transparent&hide_border=true" width="35%">
 </div>
 
-### 🧬 Work Experience
-
-<details>
-<summary><strong> Research Assistant</strong> — University of Florida – Dept. of Medicinal Chemistry (2024–2025)</summary>
-
-→ AI Drug Discovery · RNA–Ligand Binding Affinity Prediction  
-</details>
-
-<details>
-<summary><strong> Research Assistant</strong> — Virginia Tech – Dept. of Computer Science (2023–2024)</summary>
-
-→ Metagenomics Analysis · Pathogen Genomics Prediction  
-</details>
-
-<details>
-<summary><strong> Data Scientist</strong> — Cathay Financial Holdings – DDT Data Science R&D Lab (2022–2023)</summary>
-
-→ FinTech · Electronic Health Record (EHR) Modeling & Analysis  
-</details>
-
-<details>
-<summary><strong> Bioinformatics Engineer</strong> — Academia Sinica – Institute of Information Science (2017–2023)</summary>
-
-→ AI for Antimicrobial Peptide Design · Human & Fish Genome-Wide Association Study (GWAS)  
-</details>
-
 ### 📊 Google Scholar Statistics
 <p align="left">
   <a href="https://scholar.google.com/citations?user=2Yxesf0AAAAJ">
@@ -79,6 +53,37 @@ export INTERESTS="Bioinformatics, Data Science, AI Drug Discovery, Machine Learn
 _Last updated: 2025-07-29_
 <!--GS_END-->
 
+### 💼 Professional Experience
+
+<details>
+<summary><strong>Research Assistant</strong> — University of Florida – Dept. of Medicinal Chemistry (2024–2025)</summary>
+
+→ 💊 AI Drug Discovery  
+→ 🔗 RNA–Ligand Binding Affinity Prediction  
+</details>
+
+<details>
+<summary><strong>Research Assistant</strong> — Virginia Tech – Dept. of Computer Science (2023–2024)</summary>
+
+→ 🧬 Metagenomics Analysis  
+→ 🦠 Pathogen Genomics Prediction  
+</details>
+
+<details>
+<summary><strong>Data Scientist</strong> — Cathay Financial Holdings – Data Science R&D Lab (2022–2023)</summary>
+
+→ 💹 FinTech  
+→ 🏥 Electronic Health Record (EHR) Modeling & Analysis  
+</details>
+
+<details>
+<summary><strong>Bioinformatics Engineer</strong> — Academia Sinica – Institute of Information Science (2017–2023)</summary>
+
+→ 🧫 AI for Antimicrobial Peptide Design  
+→ 🧬 Human & Fish Genome-Wide Association Study (GWAS)  
+</details>
+
+<br>
 
 ### 🔬 Research Projects
 
