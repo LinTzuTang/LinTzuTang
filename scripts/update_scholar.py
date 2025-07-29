@@ -16,7 +16,7 @@ with open("README.md", "r") as f:
     content = f.read()
 
 # Preserve existing publication count
-pub_match = re.search(r"📄 Total Publications: **(\d+)**", content)
+pub_match = re.search(r"📄 Total Publications:\s+\*\*(\d+)\*\*", content)
 pub_text = f"- 📄 Total Publications: {pub_match.group(1)}  " if pub_match else ""
 
 block = (
