@@ -1,4 +1,4 @@
-<h1 align='center'> Hi there 👋, <br> I'm Tzu-Tang Lin </h1>
+<h1 align='center'> Hi there 👋, <br> I'm Tzu-Tang Lin (林子棠) </h1>
 
 <br>
 
