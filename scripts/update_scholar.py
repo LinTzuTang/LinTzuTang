@@ -5,9 +5,7 @@ import datetime
 SCHOLAR_ID = "2Yxesf0AAAAJ"
 
 author = scholarly.search_author_id(SCHOLAR_ID)
-print(author)
 author = scholarly.fill(author, sections=["indices"])
-print(author)
 
 h_index = author["hindex"]
 citations = author["citedby"]
