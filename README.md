@@ -83,7 +83,7 @@ _Last updated: 2025-07-30_
 
 <div align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=LinTzuTang&show_icons=true&hide_rank=true&custom_title=Tzu-Tang+Lin's+GitHub+Stats&include_all_commits=true&include_all_contrib=true&include_all_contribs=true&theme=transparent&hide_border=true" width="50%">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinTzuTang&layout=compact&count_weight=0.5&hide=jupyter%20notebook&theme=transparent&hide_border=true" width="49%">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinTzuTang&layout=compact&count_weight=0.5&hide=jupyter%20notebook&theme=transparent&hide_border=true" width="45%">
 </div>
 
 <img src="https://raw.githubusercontent.com/lintzutang/lintzutang/output/github-contribution-grid-snake-ocean.svg" width="100%"/>
