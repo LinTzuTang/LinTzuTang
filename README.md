@@ -1,7 +1,6 @@
-<h1 align='center'> Hi there 👋, I'm Tzu-Tang Lin (林子棠) </h1>
+<h1 align='left'> Hi there 👋, <br> I'm Tzu-Tang Lin (林子棠) </h1>
 
 <br>
-
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=2000&color=0D47A1&width=1000&lines=🔍+Transforming+data+into+discovery;🧬+ML-powered+biological+modeling+and+design;🛠️+Engineering+biomedical+tools+with+intelligence;💊+AI-driven+drug+development+and+screening;🚀+Driving+innovation+in+biomedicine)
 
