@@ -1,6 +1,6 @@
 from scholarly import scholarly
 import datetime
-import re
+# import re
 
 SCHOLAR_ID = "2Yxesf0AAAAJ"
 
@@ -15,7 +15,7 @@ date = datetime.datetime.now().strftime("%Y-%m-%d")
 with open("README.md", "r") as f:
     content = f.read()
 
-# # Preserve existing publication count
+# Preserve existing publication count
 # pub_match = re.search(r"📄 Total Publications: (\d+)", content)
 # pub_text = f"- 📄 Total Publications: {pub_match.group(1)}  " if pub_match else ""
 
@@ -28,9 +28,12 @@ block = (
     f"_Last updated: {date}_\n"
     "<!--GS_END-->"
 )
+print(block)
 
 start = content.find("<!--GS_START-->")
 end = content.find("<!--GS_END-->") + len("<!--GS_END-->")
+
+print(start)
 
 if start != -1 and end != -1:
     new_content = content[:start] + block + content[end:]
