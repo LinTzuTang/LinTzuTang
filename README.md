@@ -2,7 +2,7 @@
 
 <br>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=2000&color=0D47A1&width=1000&lines=🔍+Transforming+data+into+discovery;🧬+ML-powered+biological+modeling+and+design;🛠️+Engineering+biomedical+tools+with+intelligence;💊+AI-driven+drug+development+and+screening;🚀+Driving+innovation+in+biomedicine)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=2000&color=125ED9&width=1000&lines=🔍+Transforming+data+into+discovery;🧬+ML-powered+biological+modeling+and+design;🛠️+Engineering+biomedical+tools+with+intelligence;💊+AI-driven+drug+development+and+screening;🚀+Driving+innovation+in+biomedicine)
 
 
 ### 👤 About Me  
@@ -71,7 +71,7 @@ export INTERESTS="Bioinformatics, Data Science, AI Drug Discovery, Machine Learn
 </details>
 
 <details>
-<summary><strong>Data Scientist</strong> — Cathay Financial Holdings – Data Science R&D Lab (2022–2023)</summary>
+<summary><strong>Data Scientist</strong> — Cathay Financial Holdings Co., Ltd. – Data Science R&D Lab (2022–2023)</summary>
 
 → 💹 FinTech  
 → 🏥 Electronic Health Record (EHR) Modeling & Analysis  
@@ -116,25 +116,26 @@ _Last updated: 2025-07-30_
 
 ### 🔬 Research Projects
 
-
-| Title | Code | Summary |
-|-------|------|---------|
-| RNA-ligand Binding Affinity Prediction | [🔗 GitHub](https://github.com/LinTzuTang/RNA-affinity) | Predicting binding strength using GNN and structural information |
-| Hariboss Dataset Preprocessing & Split | [🔗 GitHub](https://github.com/LinTzuTang/hariboss-split) | Tools to clean, split and preprocess RNA-ligand data |
-| CLIP-Drug (Contrastive Learning) | [🔗 GitHub](https://github.com/LinTzuTang/clip-drug) | Multimodal learning for RNA-SM representation alignment |
-| DeepCoy + DUDE Decoy Generator | [🔗 GitHub](https://github.com/LinTzuTang/deepcoy-pipeline) | Decoy molecule generation pipeline |
-| RNA3DB Sequence-Based Split Tool | [🔗 GitHub](https://github.com/LinTzuTang/RNA3DB-split) | Sequence-aware data splitting utility |
+| Title | Code | Report | year |
+|-------|------|---------|---|
+| Cross-Domain Multimodal Contrastive Learning for RNA-Ligand Binding Affinity Prediction| [🔗 GitHub](https://github.com/LinTzuTang/RNA-affinity) |  | 2024 |
+| Intelligent de novo design of novel antimicrobial peptides against antibiotic-resistant bacteria strains | [🔗 GitHub](https://github.com/lsbnb/amp_gan) |  | 2023 |
+| Peptide-based drug predictions for cancer therapy using deep learning | [🔗 GitHub](https://github.com/LinTzuTang/AI4ACP) |  | 2022 |
+| AI4AVP: an antiviral peptides predictor in deep learning approach with generative adversarial network data augmentation| [🔗 GitHub](https://github.com/LinTzuTang/AI4AVP_predictor) |  | 2022 |
+| AI4AMP: an antimicrobial peptide predictor using physicochemical property-based encoding method and deep learning | [🔗 GitHub](https://github.com/LinTzuTang/RNA3DB-split) |   | 2021 |
 
 ---
 
-### 🛠️ Side Projects
+### 🛠️ Side Projects & Tool Development & Code Note
 
-| Title | Code |
-|-------|------|
-| Academic Personal Website (Hugo + Wowchemy) | [🔗 GitHub](https://github.com/LinTzuTang/academic-website) |
-| RNA Structure Visualization Toolkit | [🔗 GitHub](https://github.com/LinTzuTang/rna-visualizer) |
-| Bioinfo Notebook Templates | [🔗 GitHub](https://github.com/LinTzuTang/bioinfo-notebooks) |
-
+| Title | Code  | Year |
+|-------|------|---------|
+| Antimicrobial Peptides Sequence Data Analysis | [GitHub](https://github.com/LinTzuTang/AMP_fasta_analysis) | 2024 |
+| PC6 protein encoding method |[GitHub](https://github.com/LinTzuTang/rna-visualizer) | 2021 |
+| Inference Rnamigo2 for Molecular Screening |[Github](https://github.com/LinTzuTang/rnamigo2/tree/main/rnamigos) | 2024 |
+| GIGN RNA–Ligand Binding Affinity Prediction |[Github](https://github.com/LinTzuTang/GIGN/tree/main/GIGN) | 2024 |
+| Small Peptides Hemolysis predictor | [Github](https://github.com/LinTzuTang/Hemolysis) |2022|
+| Cheminformatics Hands-on |[Github](https://github.com/LinTzuTang/cheminformatics) | 2024 |
 ---
 
 ### 📫 Connect With Me
