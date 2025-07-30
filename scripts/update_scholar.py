@@ -5,7 +5,9 @@ import datetime
 SCHOLAR_ID = "2Yxesf0AAAAJ"
 
 author = scholarly.search_author_id(SCHOLAR_ID)
+print(author)
 author = scholarly.fill(author, sections=["indices"])
+print(author)
 
 h_index = author["hindex"]
 citations = author["citedby"]
@@ -28,12 +30,9 @@ block = (
     f"_Last updated: {date}_\n"
     "<!--GS_END-->"
 )
-print(block)
 
 start = content.find("<!--GS_START-->")
 end = content.find("<!--GS_END-->") + len("<!--GS_END-->")
-
-print(start)
 
 if start != -1 and end != -1:
     new_content = content[:start] + block + content[end:]
