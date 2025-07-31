@@ -124,8 +124,6 @@ _Last updated: 2025-07-30_
 | AI4AVP: an antiviral peptides predictor in deep learning approach with generative adversarial network data augmentation| [🔗 GitHub](https://github.com/LinTzuTang/AI4AVP_predictor) |  | 2022 |
 | AI4AMP: an antimicrobial peptide predictor using physicochemical property-based encoding method and deep learning | [🔗 GitHub](https://github.com/LinTzuTang/RNA3DB-split) |   | 2021 |
 
----
-
 ### 🛠️ Side Projects & Tool Development & Code Note
 
 | Title | Code  | Year |
