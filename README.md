@@ -136,8 +136,15 @@ _Last updated: 2025-08-02_
 | Cheminformatics Hands-on |[GitHub](https://github.com/LinTzuTang/cheminformatics) | 2024 |
 | RFdiffusion Protein Design Pipeline | [GitHub](https://github.com/LinTzuTang/cheminformatics/tree/main/RFdiffusion-Protein-Design) | 2024 |
 | DeepCoy for generating decoy molecules |[GitHub](https://github.com/LinTzuTang/DeepCoy/tree/main/examples)| 2024 |
-| Finetune Protein Bert for Surfaceome Prediction  | [GitHub](https://github.com/LinTzuTang/SurfaceomeBert)| 2022 |
+| Protein Bert for Surfaceome Prediction  | [GitHub](https://github.com/LinTzuTang/SurfaceomeBert)| 2022 |
 | Protein Sequence Hemolysis Predictior | [GitHub](https://github.com/LinTzuTang/Hemolysis) | 2022 |
+| RNA3DB Structure Processing and Pocket Extraction |[GitHub](https://github.com/LinTzuTang/pockets)| 2024 |
+| Inference RLaffinity for RNA-Ligand binding affinity prediction | [GitHub](https://github.com/LinTzuTang/RLaffinity) | 2024 |
+| Taiwan BioBank GWAS |[GitHub](https://github.com/LinTzuTang/TWB2_GWAS/tree/master/genotyped_plink)| 2022 |
+| Resnet & Bi-LSTM model for testing | [Github](https://github.com/LinTzuTang/Resnet) | 2022 |
+| VLP-GAN: a GAN model generates variable-length functional peptides| [Github](https://github.com/LinTzuTang/peptide_GAN) | 2021 |
+
+|
 
 
 ---
