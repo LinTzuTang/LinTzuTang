@@ -130,11 +130,14 @@ _Last updated: 2025-08-02_
 |-------|------|---------|
 | Antimicrobial Peptides Sequence Data Analysis | [GitHub](https://github.com/LinTzuTang/AMP_fasta_analysis) | 2024 |
 | PC6 Protein Encoding Method |[GitHub](https://github.com/LinTzuTang/rna-visualizer) | 2021 |
-| Inference Rnamigo2 for Molecular Screening |[Github](https://github.com/LinTzuTang/rnamigo2/tree/main/rnamigos) | 2024 |
-| GIGN RNA–Ligand Binding Affinity Prediction |[Github](https://github.com/LinTzuTang/GIGN/tree/main/GIGN) | 2024 |
-| Small Peptides Hemolysis predictor | [Github](https://github.com/LinTzuTang/Hemolysis) |2022|
-| Cheminformatics Hands-on |[Github](https://github.com/LinTzuTang/cheminformatics) | 2024 |
-| RFdiffusion Protein Design Pipeline | [Github](https://github.com/LinTzuTang/cheminformatics/tree/main/RFdiffusion-Protein-Design) | 2024 |
+| Inference Rnamigo2 for Molecular Screening |[GitHub](https://github.com/LinTzuTang/rnamigo2/tree/main/rnamigos) | 2024 |
+| GIGN RNA–Ligand Binding Affinity Prediction |[GitHub](https://github.com/LinTzuTang/GIGN/tree/main/GIGN) | 2024 |
+| Small Peptides Hemolysis predictor | [GitHub](https://github.com/LinTzuTang/Hemolysis) |2022|
+| Cheminformatics Hands-on |[GitHub](https://github.com/LinTzuTang/cheminformatics) | 2024 |
+| RFdiffusion Protein Design Pipeline | [GitHub](https://github.com/LinTzuTang/cheminformatics/tree/main/RFdiffusion-Protein-Design) | 2024 |
+| DeepCoy for generating decoy molecules |[GitHub](https://github.com/LinTzuTang/DeepCoy/tree/main/examples)| 2024 |
+| Finetune Protein Bert for Surfaceome Prediction  | [GitHub](https://github.com/LinTzuTang/SurfaceomeBert)| 2022 |
+| Protein Sequence Hemolysis Predictior | [GitHub](https://github.com/LinTzuTang/Hemolysis) | 2022 |
 
 
 ---
