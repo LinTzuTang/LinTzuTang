@@ -118,7 +118,7 @@ _Last updated: 2025-08-02_
 
 | Title | Code | Report | year |
 |-------|------|---------|---|
-| Cross-Domain Multimodal Contrastive Learning for RNA-Ligand Binding Affinity Prediction| [🔗 GitHub](https://github.com/LinTzuTang/RNA-affinity) |  | 2024 |
+| Cross-Domain Multimodal Contrastive Learning for RNA-Ligand Binding Affinity Prediction| [🔗 GitHub](https://github.com/LinTzuTang/RNA-affinity) | [report] | 2024 |
 | Intelligent de novo design of novel antimicrobial peptides against antibiotic-resistant bacteria strains | [🔗 GitHub](https://github.com/lsbnb/amp_gan) |  | 2023 |
 | Peptide-based drug predictions for cancer therapy using deep learning | [🔗 GitHub](https://github.com/LinTzuTang/AI4ACP) |  | 2022 |
 | AI4AVP: an antiviral peptides predictor in deep learning approach with generative adversarial network data augmentation| [🔗 GitHub](https://github.com/LinTzuTang/AI4AVP_predictor) |  | 2022 |
@@ -147,6 +147,8 @@ _Last updated: 2025-08-02_
 | RMalign for RNA Structure filtering and Clustering | [GitHub](https://github.com/LinTzuTang/RMalign) | 2024 |
 | PDBbind Nucleic acid-Ligand Dataset Processing | [GitHub](https://github.com/LinTzuTang/pdbbind) | 2024 |
 | RNA Structure & Ligand Analysis Toolkit | [GitHub](https://github.com/LinTzuTang/rna_tools) | 2024 |
+| Pathogenicity of DNA Sequences Predictor | [GitHub](https://github.com/LinTzuTang/patho_predictor)  | 2024 |
+| CGH Data Science Workshop | [GitHub](https://github.com/LinTzuTang/cgh_data_science_workshop) | 2023 |
 
 
 ---
