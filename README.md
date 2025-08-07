@@ -17,6 +17,7 @@ export INTERESTS="Bioinformatics, Data Science, AI Drug Discovery, Machine Learn
 
 > Motivated to tap into the potential of AI and data science to reveal game-changing capabilities that accelerate the advancement of precision medicine and maximally benefit public health.
 
+
 ### 💻 Tech Stack & Tools
 
 #### Programming, Data & AI
@@ -53,6 +54,7 @@ export INTERESTS="Bioinformatics, Data Science, AI Drug Discovery, Machine Learn
 | <a href="https://your-website.com"><img src="https://raw.githubusercontent.com/LinTzuTang/LinTzuTang/main/figures/icons8-website-50.png" width="60"/><br><sub><strong>Website</strong></sub></a> | <a href="https://www.linkedin.com/in/tzutang-lin/"><img src="https://raw.githubusercontent.com/LinTzuTang/LinTzuTang/main/figures/icons8-linkedin-50.png" width="60"/><br><sub><strong>LinkedIn</strong></sub></a> | <a href="https://your-website.com/your_cv.pdf"><img src="https://raw.githubusercontent.com/LinTzuTang/LinTzuTang/main/figures/icons8-cv-50.png" width="60"/><br><sub><strong>CV.pdf</strong></sub></a> |
 |:--:|:--:|:--:|
 
+---
 
 ### 💼 Professional Experience
 
