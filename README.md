@@ -111,8 +111,7 @@ _Last updated: 2025-08-07_
 
 <img src="https://raw.githubusercontent.com/lintzutang/lintzutang/output/github-contribution-grid-snake-ocean.svg" width="100%"/>
 
-
-
+---
 
 ### 🔬 Research Projects
 
@@ -124,43 +123,65 @@ _Last updated: 2025-08-07_
 | AI4AVP: an antiviral peptides predictor in deep learning approach with generative adversarial network data augmentation| [GitHub](https://github.com/LinTzuTang/AI4AVP_predictor) | [link](https://academic.oup.com/bioinformaticsadvances/article/2/1/vbac080/6774982)  | 2022 |
 | AI4AMP: an antimicrobial peptide predictor using physicochemical property-based encoding method and deep learning | [GitHub](https://github.com/LinTzuTang/RNA3DB-split) |  [link](https://journals.asm.org/doi/10.1128/msystems.00299-21) | 2021 |
 
-### 🛠️ Side Projects & Tool Development & Code Note
+---
 
-| Title | Code  | Year |
-|-------|------|---------|
-| Antimicrobial Peptides Sequence Data Analysis | [GitHub](https://github.com/LinTzuTang/AMP_fasta_analysis) | 2024 |
-| PC6 Protein Encoding Method |[GitHub](https://github.com/LinTzuTang/rna-visualizer) | 2021 |
-| Inference Rnamigo2 for Molecular Screening |[GitHub](https://github.com/LinTzuTang/rnamigo2/tree/main/rnamigos) | 2024 |
-| GIGN RNA–Ligand Binding Affinity Prediction |[GitHub](https://github.com/LinTzuTang/GIGN/tree/main/GIGN) | 2024 |
-| Small Peptides Hemolysis predictor | [GitHub](https://github.com/LinTzuTang/Hemolysis) |2022|
-| Cheminformatics Hands-on |[GitHub](https://github.com/LinTzuTang/cheminformatics) | 2024 |
-| RFdiffusion Protein Design Pipeline | [GitHub](https://github.com/LinTzuTang/cheminformatics/tree/main/RFdiffusion-Protein-Design) | 2024 |
-| DeepCoy for generating decoy molecules |[GitHub](https://github.com/LinTzuTang/DeepCoy/tree/main/examples)| 2024 |
-| Protein Bert for Surfaceome Prediction  | [GitHub](https://github.com/LinTzuTang/SurfaceomeBert)| 2022 |
-| Protein Sequence Hemolysis Predictior | [GitHub](https://github.com/LinTzuTang/Hemolysis) | 2022 |
-| RNA3DB Structure Data Processing and Pocket Extraction |[GitHub](https://github.com/LinTzuTang/pockets)| 2024 |
+### 🛠️ Side Projects & Tool Development & Code Notes
+
+
+#### 🧬 RNA & Molecular
+
+| Title | Code | Year |
+|-------|------|------|
+| RNA Structure & Ligand Analysis Toolkit | [GitHub](https://github.com/LinTzuTang/rna_tools) | 2024 |
+| GIGN RNA–Ligand Binding Affinity Prediction | [GitHub](https://github.com/LinTzuTang/GIGN/tree/main/GIGN) | 2024 |
 | Inference RLaffinity for RNA-Ligand binding affinity prediction | [GitHub](https://github.com/LinTzuTang/RLaffinity) | 2024 |
-| Taiwan BioBank GWAS |[GitHub](https://github.com/LinTzuTang/TWB2_GWAS/tree/master/genotyped_plink)| 2022 |
-| Resnet & Bi-LSTM model for testing | [GitHub](https://github.com/LinTzuTang/Resnet) | 2022 |
-| VLP-GAN: a GAN model generates variable-length functional peptides| [GitHub](https://github.com/LinTzuTang/peptide_GAN) | 2021 |
+| DeepCoy for generating decoy molecules | [GitHub](https://github.com/LinTzuTang/DeepCoy/tree/main/examples) | 2024 |
+| Inference Rnamigo2 for Molecular Screening | [GitHub](https://github.com/LinTzuTang/rnamigo2/tree/main/rnamigos) | 2024 |
 | RNA3DB for RNA Structure filtering and Clustering | [GitHub](https://github.com/LinTzuTang/RNA3DB) | 2024 |
 | RMalign for RNA Structure filtering and Clustering | [GitHub](https://github.com/LinTzuTang/RMalign) | 2024 |
 | PDBbind Nucleic acid-Ligand Dataset Processing | [GitHub](https://github.com/LinTzuTang/pdbbind) | 2024 |
-| RNA Structure & Ligand Analysis Toolkit | [GitHub](https://github.com/LinTzuTang/rna_tools) | 2024 |
-| Pathogenicity of DNA Sequences Predictor | [GitHub](https://github.com/LinTzuTang/patho_predictor)  | 2024 |
-| CGH Data Science Workshop | [GitHub](https://github.com/LinTzuTang/cgh_data_science_workshop) | 2023 |
+| RNA3DB Structure Data Processing and Pocket Extraction | [GitHub](https://github.com/LinTzuTang/pockets) | 2024 |
+| Hariboss RNA-Small Molecules Structures Dataset Processing | [GitHub](https://github.com/LinTzuTang/hariboss) | 2024 |
+
+
+#### 🧪 Peptides & Proteins
+
+| Title | Code | Year |
+|-------|------|------|
+| Antimicrobial Peptides Sequence Data Analysis | [GitHub](https://github.com/LinTzuTang/AMP_fasta_analysis) | 2024 |
+| Small Peptides Hemolysis predictor | [GitHub](https://github.com/LinTzuTang/Hemolysis) | 2022 |
+| Protein Bert for Surfaceome Prediction | [GitHub](https://github.com/LinTzuTang/SurfaceomeBert) | 2022 |
+| VLP-GAN: a GAN model generates variable-length functional peptides | [GitHub](https://github.com/LinTzuTang/peptide_GAN) | 2021 |
+| PC6 Protein Encoding Method | [GitHub](https://github.com/LinTzuTang/rna-visualizer) | 2021 |
+
+
+#### 🧬 Genomics
+
+| Title | Code | Year |
+|-------|------|------|
+| Pathogenicity of DNA Sequences Predictor | [GitHub](https://github.com/LinTzuTang/patho_predictor) | 2024 |
 | Metagenomic Analysis Code Notes | [GitHub](https://github.com/LinTzuTang/Metagnomics) | 2023 |
-| Hariboss RNA-Small Molecules Structures Dataset Processing | [GitHub](https://github.com/LinTzuTang/hariboss)  | 2024 |
-| Docker Notes and Practices | [GitHub](https://github.com/LinTzuTang/Docker) | 2023 |
-| Synthetic Data Module for Tabular Data | [GitHub](https://github.com/LinTzuTang/synthetic-data) | 2023 |
+| TW2 hear lossing model training by SNPs | [GitHub](https://github.com/LinTzuTang/TWB2_model_training/tree/master/hear_losing) | 2022 |
+| Taiwan BioBank GWAS | [GitHub](https://github.com/LinTzuTang/TWB2_GWAS/tree/master/genotyped_plink) | 2022 |
+| Obesity Predictor using Taiwan BioBank SNPs | [GitHub](https://github.com/LinTzuTang/obesity) | 2021 |
+
+
+#### 🏥 EHRs & Tabular ML
+
+| Title | Code | Year |
+|-------|------|------|
 | Using FT Transformer for Sepsis Prediction | [GitHub](https://github.com/LinTzuTang/tabular_data_modeling) | 2023 |
+| Synthetic Data Module for Tabular Data | [GitHub](https://github.com/LinTzuTang/synthetic-data) | 2023 |
 
----
 
-### 📫 Connect With Me
+#### 📚 Workshops, Notes & Utilities
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](b03601046@email.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tzutang-lin/)
-
+| Title | Code | Year |
+|-------|------|------|
+| Cheminformatics Hands-on | [GitHub](https://github.com/LinTzuTang/cheminformatics) | 2024 |
+| RFdiffusion Protein Design Pipeline | [GitHub](https://github.com/LinTzuTang/cheminformatics/tree/main/RFdiffusion-Protein-Design) | 2024 |
+| CGH Data Science Workshop | [GitHub](https://github.com/LinTzuTang/cgh_data_science_workshop) | 2023 |
+| Docker Notes and Practices | [GitHub](https://github.com/LinTzuTang/Docker) | 2023 |
+| Resnet & Bi-LSTM model for testing | [GitHub](https://github.com/LinTzuTang/Resnet) | 2022 |
 
 
