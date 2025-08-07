@@ -93,6 +93,8 @@ export INTERESTS="Bioinformatics, Data Science, AI Drug Discovery, Machine Learn
 > 🚀 Keen to join **startups or research teams** at the forefront of biotech innovation  
 > 🌍 Available for **global opportunities**, both remote and on-site
 
+---
+
 ### 📊 Google Scholar Statistics
 
 <p align="left">
