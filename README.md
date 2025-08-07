@@ -116,13 +116,13 @@ _Last updated: 2025-08-07_
 
 ### 🔬 Research Projects
 
-| Title | Code | Report | year |
+| Title | Code | Paper | year |
 |-------|------|---------|---|
-| Cross-Domain Multimodal Contrastive Learning for RNA-Ligand Binding Affinity Prediction| [🔗 GitHub](https://github.com/LinTzuTang/RNA-affinity) | [report] | 2024 |
-| Intelligent de novo design of novel antimicrobial peptides against antibiotic-resistant bacteria strains | [🔗 GitHub](https://github.com/lsbnb/amp_gan) |  | 2023 |
-| Peptide-based drug predictions for cancer therapy using deep learning | [🔗 GitHub](https://github.com/LinTzuTang/AI4ACP) |  | 2022 |
-| AI4AVP: an antiviral peptides predictor in deep learning approach with generative adversarial network data augmentation| [🔗 GitHub](https://github.com/LinTzuTang/AI4AVP_predictor) |  | 2022 |
-| AI4AMP: an antimicrobial peptide predictor using physicochemical property-based encoding method and deep learning | [🔗 GitHub](https://github.com/LinTzuTang/RNA3DB-split) |   | 2021 |
+| Cross-Domain Multimodal Contrastive Learning for RNA-Ligand Binding Affinity Prediction| [GitHub](https://github.com/LinTzuTang/RLC-CLIP/tree/main/CoRSA) | [report](https://github.com/LinTzuTang/RLC-CLIP/blob/main/CoRSA/docs/Cross-Domain%20Multimodal%20Contrastive%20Learning%20for%20RNA-Ligand%20Binding%20Affinity%20Prediction.pdf) | 2024 |
+| Intelligent de novo design of novel antimicrobial peptides against antibiotic-resistant bacteria strains | [GitHub](https://github.com/lsbnb/amp_gan) | [link](https://www.mdpi.com/1422-0067/24/7/6788) | 2023 |
+| Peptide-based drug predictions for cancer therapy using deep learning | [GitHub](https://github.com/LinTzuTang/AI4ACP) | [link](https://www.mdpi.com/1424-8247/15/4/422) | 2022 |
+| AI4AVP: an antiviral peptides predictor in deep learning approach with generative adversarial network data augmentation| [GitHub](https://github.com/LinTzuTang/AI4AVP_predictor) | [link](https://academic.oup.com/bioinformaticsadvances/article/2/1/vbac080/6774982)  | 2022 |
+| AI4AMP: an antimicrobial peptide predictor using physicochemical property-based encoding method and deep learning | [GitHub](https://github.com/LinTzuTang/RNA3DB-split) |  [link](https://journals.asm.org/doi/10.1128/msystems.00299-21) | 2021 |
 
 ### 🛠️ Side Projects & Tool Development & Code Note
 
@@ -149,7 +149,11 @@ _Last updated: 2025-08-07_
 | RNA Structure & Ligand Analysis Toolkit | [GitHub](https://github.com/LinTzuTang/rna_tools) | 2024 |
 | Pathogenicity of DNA Sequences Predictor | [GitHub](https://github.com/LinTzuTang/patho_predictor)  | 2024 |
 | CGH Data Science Workshop | [GitHub](https://github.com/LinTzuTang/cgh_data_science_workshop) | 2023 |
-
+| Metagenomic Analysis Code Notes | [GitHub](https://github.com/LinTzuTang/Metagnomics) | 2023 |
+| Hariboss RNA-Small Molecules Structures Dataset Processing | [GitHub](https://github.com/LinTzuTang/hariboss)  | 2024 |
+| Docker Notes and Practices | [GitHub](https://github.com/LinTzuTang/Docker) | 2023 |
+| Synthetic Data Module for Tabular Data | [GitHub](https://github.com/LinTzuTang/synthetic-data) | 2023 |
+| Using FT Transformer for Sepsis Prediction | [GitHub](https://github.com/LinTzuTang/tabular_data_modeling) | 2023 |
 
 ---
 
