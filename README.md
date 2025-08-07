@@ -86,6 +86,13 @@ export INTERESTS="Bioinformatics, Data Science, AI Drug Discovery, Machine Learn
 → 🧬 Human & Fish Genome-Wide Association Study (GWAS)  
 </details>
 
+> ### 🧭 What's Next
+>
+> 💡 Seeking **AI/ML roles** in drug discovery and precision medicine  
+> 🤝 Open to **collaborations** in **AI × Biomedicine / Bioinformatics**  
+> 🚀 Excited to join **startups or research teams** at the forefront of biotech innovation  
+> 🌍 Available for **global opportunities**, both remote and on-site
+
 ### 📊 Google Scholar Statistics
 
 <p align="left">
@@ -185,5 +192,7 @@ _Last updated: 2025-08-07_
 | CGH Data Science Workshop | [GitHub](https://github.com/LinTzuTang/cgh_data_science_workshop) | 2023 |
 | Docker Notes and Practices | [GitHub](https://github.com/LinTzuTang/Docker) | 2023 |
 | Resnet & Bi-LSTM model for testing | [GitHub](https://github.com/LinTzuTang/Resnet) | 2022 |
+
+
 
 
