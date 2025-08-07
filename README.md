@@ -90,7 +90,7 @@ export INTERESTS="Bioinformatics, Data Science, AI Drug Discovery, Machine Learn
 >
 > 💡 Seeking **AI/ML roles** in drug discovery and precision medicine  
 > 🤝 Open to **collaborations** in **AI × Biomedicine / Bioinformatics**  
-> 🚀 Excited to join **startups or research teams** at the forefront of biotech innovation  
+> 🚀 Keen to join **startups or research teams** at the forefront of biotech innovation  
 > 🌍 Available for **global opportunities**, both remote and on-site
 
 ### 📊 Google Scholar Statistics
