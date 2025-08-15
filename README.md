@@ -51,7 +51,7 @@ export INTERESTS="Bioinformatics, Data Science, AI Drug Discovery, Machine Learn
 
 ### 🔗 Quick Links
 
-| <a href="https://your-website.com"><img src="https://raw.githubusercontent.com/LinTzuTang/LinTzuTang/main/figures/icons8-website-50.png" width="60"/><br><sub><strong>Website</strong></sub></a> | <a href="https://www.linkedin.com/in/tzutang-lin/"><img src="https://raw.githubusercontent.com/LinTzuTang/LinTzuTang/main/figures/icons8-linkedin-50.png" width="60"/><br><sub><strong>LinkedIn</strong></sub></a> | <a href="Tzu-Tang_Lin_CV.pdf"><img src="https://raw.githubusercontent.com/LinTzuTang/LinTzuTang/main/figures/icons8-cv-50.png" width="60"/><br><sub><strong>CV.pdf</strong></sub></a> |
+| <a href="https://lintzutang.github.io/"><img src="https://raw.githubusercontent.com/LinTzuTang/LinTzuTang/main/figures/icons8-website-50.png" width="60"/><br><sub><strong>Website</strong></sub></a> | <a href="https://www.linkedin.com/in/tzutang-lin/"><img src="https://raw.githubusercontent.com/LinTzuTang/LinTzuTang/main/figures/icons8-linkedin-50.png" width="60"/><br><sub><strong>LinkedIn</strong></sub></a> | <a href="./CV/Tzu-Tang_Lin_CV.pdf"><img src="https://raw.githubusercontent.com/LinTzuTang/LinTzuTang/main/figures/icons8-cv-50.png" width="60"/><br><sub><strong>CV.pdf</strong></sub></a> |
 |:--:|:--:|:--:|
 
 ---
