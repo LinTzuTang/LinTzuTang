@@ -160,6 +160,7 @@ _Last updated: 2025-08-16_
 | Title | Code | Year |
 |-------|------|------|
 | Antimicrobial Peptides Sequence Data Analysis | [GitHub](https://github.com/LinTzuTang/AMP_fasta_analysis) | 2024 |
+| AI4AFP: an antifungal peptide predictor using Doc2Vec |[GitHub](https://github.com/LinTzuTang/AI4AFP_predictor) | 2022 |
 | Small Peptides Hemolysis predictor | [GitHub](https://github.com/LinTzuTang/Hemolysis) | 2022 |
 | Protein Bert for Surfaceome Prediction | [GitHub](https://github.com/LinTzuTang/SurfaceomeBert) | 2022 |
 | VLP-GAN: a GAN model generates variable-length functional peptides | [GitHub](https://github.com/LinTzuTang/peptide_GAN) | 2021 |
