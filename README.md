@@ -132,7 +132,7 @@ _Last updated: 2025-08-19_
 | Intelligent de novo design of novel antimicrobial peptides against antibiotic-resistant bacteria strains | [GitHub](https://github.com/lsbnb/amp_gan) | [link](https://www.mdpi.com/1422-0067/24/7/6788) | 2023 |
 | Peptide-based drug predictions for cancer therapy using deep learning | [GitHub](https://github.com/LinTzuTang/AI4ACP) | [link](https://www.mdpi.com/1424-8247/15/4/422) | 2022 |
 | AI4AVP: an antiviral peptides predictor in deep learning approach with generative adversarial network data augmentation| [GitHub](https://github.com/LinTzuTang/AI4AVP_predictor) | [link](https://academic.oup.com/bioinformaticsadvances/article/2/1/vbac080/6774982)  | 2022 |
-| AI4AMP: an antimicrobial peptide predictor using physicochemical property-based encoding method and deep learning | [GitHub](https://github.com/LinTzuTang/RNA3DB-split) |  [link](https://journals.asm.org/doi/10.1128/msystems.00299-21) | 2021 |
+| AI4AMP: an antimicrobial peptide predictor using physicochemical property-based encoding method and deep learning | [GitHub](https://github.com/LinTzuTang/AI4AMP_predictor) |  [link](https://journals.asm.org/doi/10.1128/msystems.00299-21) | 2021 |
 
 ---
 
