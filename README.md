@@ -164,7 +164,7 @@ _Last updated: 2025-08-21_
 | Small Peptides Hemolysis predictor | [GitHub](https://github.com/LinTzuTang/Hemolysis) | 2022 |
 | Protein Bert for Surfaceome Prediction | [GitHub](https://github.com/LinTzuTang/SurfaceomeBert) | 2022 |
 | VLP-GAN: a GAN model generates variable-length functional peptides | [GitHub](https://github.com/LinTzuTang/peptide_GAN) | 2021 |
-| PC6 Protein Encoding Method | [GitHub](https://github.com/LinTzuTang/rna-visualizer) | 2021 |
+| PC6 Protein Encoding Method | [GitHub](https://github.com/LinTzuTang/PC6-protein-encoding-method) | 2021 |
 
 
 #### 🧬 Genomics
