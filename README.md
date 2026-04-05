@@ -115,10 +115,16 @@ _Last updated: 2026-04-05_
 
 <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LinTzuTang&theme=transparent" width="100%">
 
-<div align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LinTzuTang&show_icons=true&hide_rank=true&custom_title=Tzu-Tang+Lin's+GitHub+Stats&include_all_commits=true&include_all_contrib=true&include_all_contribs=true&theme=transparent&hide_border=true" width="50%">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinTzuTang&layout=compact&count_weight=0.5&hide=jupyter%20notebook&theme=transparent&hide_border=true" width="45%">
-</div>
+<p align="left">
+  <img
+    src="https://github-readme-stats-six-beryl-31.vercel.app/api?username=LinTzuTang&show_icons=true&hide_rank=true&custom_title=Tzu-Tang+Lin's+GitHub+Stats&include_all_commits=true&theme=transparent&hide_border=true&cache_seconds=1800"
+    width="52%"
+  />
+  <img
+    src="https://github-readme-stats-six-beryl-31.vercel.app/api/top-langs/?username=LinTzuTang&layout=compact&count_weight=0.5&hide=jupyter%20notebook&theme=transparent&hide_border=true&cache_seconds=1800"
+    width="40%"
+  />
+</p>
 
 <img src="https://raw.githubusercontent.com/lintzutang/lintzutang/output/github-contribution-grid-snake-ocean.svg" width="100%"/>
 
