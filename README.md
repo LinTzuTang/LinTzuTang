@@ -112,9 +112,8 @@ _Last updated: 2026-04-06_
 <!--GS_END-->
 
 ### 📊 Github Statistics
-
+<img src="https://komarev.com/ghpvc/?username=LinTzuTang&color=blueviolet&style=flat-square" />
 <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LinTzuTang&theme=transparent" width="100%">
-
 
 <img src="https://raw.githubusercontent.com/lintzutang/lintzutang/output/github-contribution-grid-snake-ocean.svg" width="100%"/>
 
