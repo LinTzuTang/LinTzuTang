@@ -105,10 +105,10 @@ export INTERESTS="Bioinformatics, Data Science, AI Drug Discovery, Machine Learn
 
 
 - 📄 Total Publications: **7** _(6 first-authored)_  <!--GS_START-->
-- 📈 Total Citations: **314**  
+- 📈 Total Citations: **319**  
 - 🧠 h-index: 6  
 - 🏅 i10-index: 6  
-_Last updated: 2026-09-01_
+_Last updated: 2026-09-04_
 <!--GS_END-->
 
 ### 📊 Github Statistics
